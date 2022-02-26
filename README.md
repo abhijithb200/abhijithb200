@@ -20,9 +20,9 @@
  </div>
   
   <div align='center'>
-<h4>My Hack The Box Profile</h4>
+<h4>My Try Hack Me Profile</h4>
   <a title="Try Hack Me Profile" href="https://tryhackme.com/p/5her10c">
-<img src="http://www.hackthebox.eu/badge/image/623130" alt="Try Hack Me">
+<img src="https://tryhackme-badges.s3.amazonaws.com/5her10c.png" alt="TryHackMe">
    
  </div>
 
